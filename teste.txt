@@ -1,2 +1,9 @@
 Template 
 
+TOPO DO SITE COM LOGO
+
+COMANDOS GET PARA SALVAR TRABALHO:
+
+1- git add *
+2- gti commit -m "rótulo do trabalho desenvolvido"(cria uma versão do projeto)
+3- git push origin master (manda para o repositório remoto)
